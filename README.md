@@ -1,1 +1,3 @@
-# reactjs-tetris-project
+# Reactjs-tetris-project
+
+By @Kphetsu
